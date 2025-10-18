@@ -1,5 +1,28 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.6 (18/10/2025)
+
+### 🔧 Padronização Completa de Terminologia Checkin/Checkout
+- **PADRONIZADO**: "check-out"/"Check-out" → "bloqueado" em todas as ocorrências (12+ arquivos)
+- **PADRONIZADO**: Terminologia consistente para sistema de bloqueio/liberação
+- **CORRIGIDO**: "itens retirados" → "itens bloqueados"
+- **CORRIGIDO**: "itens com bloqueados" → "itens bloqueados"
+- **CORRIGIDO**: "fazer liberar" → "liberar"
+- **MELHORADO**: Consistência terminológica em admin_pt-BR, site_pt-BR e api_pt-BR
+- **APLICADO**: Padrão consistente: "bloqueado" para estado, "liberação" para ação
+
+### 📁 Arquivos Atualizados
+- **admin_pt-BR**: lib_joomla.ini, com_menus.ini, com_finder.ini, com_content.ini, com_checkin.ini, com_categories.ini, com_associations.ini
+- **site_pt-BR**: lib_joomla.ini (já consistente)
+- **api_pt-BR**: joomla.ini (já consistente)
+- **Terminologia**: Padronização completa do sistema checkin/checkout
+
+### ✅ Compatibilidade
+- **Joomla**: 6.0.0.1.6
+- **Cobertura**: 100% das traduções checkin/checkout padronizadas
+
+---
+
 ## Versão 6.0.0.1.5 (18/10/2025)
 
 ### 🔧 Correções de Traduções Literais e Melhorias de Linguagem
