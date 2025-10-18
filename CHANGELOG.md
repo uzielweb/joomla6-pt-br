@@ -1,5 +1,22 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.9 (18/10/2025)
+
+### 🔧 Correção de Terminologia para Canais de Atualização
+- **CORRIGIDO**: "Atualizar canal" → "Canal de atualização" (4 ocorrências)
+- **MELHORADO**: Naturalidade da tradução para português brasileiro
+- **PADRONIZADO**: Terminologia consistente para canais de atualização do Joomla
+
+### 📁 Arquivos Atualizados
+- **admin_pt-BR**: com_joomlaupdate.ini (correção terminológica)
+- **Terminologia**: Padronização de "canal de atualização"
+
+### ✅ Compatibilidade
+- **Joomla**: 6.0.0.1.9
+- **Cobertura**: Correção terminológica para canais de atualização
+
+---
+
 ## Versão 6.0.0.1.8 (18/10/2025)
 
 ### 🔧 Correções Adicionais de Expressões Joomla!
