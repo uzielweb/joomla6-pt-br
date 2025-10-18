@@ -235,7 +235,7 @@
 ### Estrutura do Pacote
 
 ```
-pkg_pt-BR_6.0.0.1.2.zip
+pkg_pt-BR_6.0.0.1.3.zip
 ├── pkg_pt-BR.xml (XML principal do pacote)
 ├── README.md (Documentação)
 ├── site_pt-BR/ (Frontend)
