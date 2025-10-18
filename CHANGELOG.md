@@ -1,6 +1,76 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
-## Versão 6.0.0.1.1 (18/10/2025)
+## Versão 6.0.0.1.2 (18/10/2025)
+
+### 🚀 Melhorias Gerais
+- **NOVO**: Sistema de atualizações automáticas via GitHub
+- **NOVO**: Arquivo de atualizações configurado (`updates/pt-br-language-pack.xml`)
+- **MELHORADO**: Concordância gramatical em todo o pacote de idioma
+- **MELHORADO**: Consistência terminológica em traduções técnicas
+
+### ⚡ Correções de Concordância e Consistência
+
+#### Substituição "Linguagem" → "Idioma"
+- **CORRIGIDO**: Substituídas todas as 35+ ocorrências de "linguagem" por "idioma"
+- **CORRIGIDO**: Concordância de gênero: "A linguagem" → "O idioma"
+- **CORRIGIDO**: "Constantes de linguagem" → "Constantes de idioma"
+- **CORRIGIDO**: "Linguagem de depuração" → "Idioma de depuração"
+- **CORRIGIDO**: "Linguagem ativa" → "Idioma ativo"
+
+#### Grupos de Campos - Consistência
+- **CORRIGIDO**: "Grupos de Campo" → "Grupos de campos"
+- **CORRIGIDO**: "Grupo de Campo" → "Grupo de campos"
+- **CORRIGIDO**: Padronização entre singular/plural em 8+ arquivos
+
+#### Concordância de Gênero Geral
+- **CORRIGIDO**: "Não é permitido senha vazia" → "Não é permitida senha vazia"
+- **CORRIGIDO**: "uma dos links" → "um dos links"
+- **CORRIGIDO**: "uma de suas pais" → "um de seus pais" (pais é masculino)
+- **CORRIGIDO**: "O idioma PHP mbstring não está definido como neutro"
+
+#### Terminologia Técnica "Verificado"
+- **MELHORADO**: Diferenciação contextual de "verificado":
+  - Check-out de sistema: "bloqueado/liberado"
+  - Verificação: "verificado"
+  - Marcação de template: "marcado/revisado"
+- **CORRIGIDO**: 15+ arquivos com contextos de check-in/check-out
+
+### 🔧 Configuração e Infraestrutura
+- **NOVO**: Servidor de atualizações GitHub configurado
+- **NOVO**: URL de download baseada em tags Git
+- **MELHORADO**: Metadados do pacote atualizados
+
+### Correções
+
+#### Problemas de Concordância de Gênero
+- **CORRIGIDO**: "A instalação da linguagem" → "A instalação do idioma"
+- **CORRIGIDO**: "A código do idioma" → "O código do idioma"
+- **CORRIGIDO**: "arquivo de manifesto XML da linguagem" → "arquivo de manifesto XML do idioma"
+- **CORRIGIDO**: "arquivo meta XML da linguagem" → "arquivo meta XML do idioma"
+- **CORRIGIDO**: "Tanto a linguagem de conteúdo" → "Tanto o idioma de conteúdo"
+- **CORRIGIDO**: "A linguagem de conteúdo foi descartada" → "O idioma de conteúdo foi descartado"
+
+#### Traduções de Interface
+- **CORRIGIDO**: "Collapsible Dropdown" → "Menu Suspenso Recolhível"
+- **CORRIGIDO**: "Dropdown" → "Menu Suspenso"
+- **CORRIGIDO**: "Sidebar-left/right" → "Barra Lateral Esquerda/Direita"
+- **CORRIGIDO**: "Button - Menu" → "Botão - Menu"
+- **CORRIGIDO**: "Collapsible Default Menu" → "Menu Padrão Recolhível"
+
+#### Padronização Terminológica
+- Padronização do uso de "idioma" em vez de "linguagem" para idiomas humanos
+- Melhoria na consistência de concordância de gênero e número
+- Correção de termos técnicos em inglês que não haviam sido traduzidos
+
+### Arquivos Modificados
+- `admin_pt-BR/com_installer.ini`
+- `admin_pt-BR/com_languages.ini`
+- `admin_pt-BR/plg_editors-xtd_menu.ini`
+- `admin_pt-BR/plg_editors-xtd_menu.sys.ini`
+- `site_pt-BR/tpl_cassiopeia.sys.ini`
+- `site_pt-BR/mod_menu.sys.ini`
+
+## Versão 6.0.0.1.1 (16/10/2025)
 
 ### Novidades
 
@@ -144,7 +214,7 @@
 ### Estrutura do Pacote
 
 ```
-pkg_pt-BR_6.0.0.1.1.zip
+pkg_pt-BR_6.0.0.1.2.zip
 ├── pkg_pt-BR.xml (XML principal do pacote)
 ├── README.md (Documentação)
 ├── site_pt-BR/ (Frontend)

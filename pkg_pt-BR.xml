@@ -2,8 +2,8 @@
 <extension type="package" method="upgrade">
 	<name>Portuguese (Brazil) Language Pack</name>
 	<packagename>pt-BR</packagename>
-	<version>6.0.0.1.1</version>
-	<creationDate>2025-10-16</creationDate>
+	<version>6.0.0.1.2</version>
+	<creationDate>2025-10-18</creationDate>
 	<author>Use Joomla!</author>
 	<authorEmail>traducao@usejoomla.com.br</authorEmail>
 	<authorUrl>https://www.usejoomla.com.br</authorUrl>
@@ -13,7 +13,7 @@
 	<packager></packager>
 	<packagerurl></packagerurl>
 	<description><![CDATA[
-		<h2>Pacote de Idioma Português (Brasil) para Joomla! 6.0.0.1.1</h2>
+		<h2>Pacote de Idioma Português (Brasil) para Joomla! 6.0.0.1.2</h2>
 		<p><strong>Traduzido por:</strong> Use Joomla! - Comunidade Brasileira de Joomla!</p>
 		<p><strong>Website:</strong> <a href="https://www.usejoomla.com.br" target="_blank">www.usejoomla.com.br</a></p>
 		<p><strong>Email:</strong> traducao@usejoomla.com.br</p>
@@ -27,7 +27,7 @@
 			<li>Metadados de idioma atualizados</li>
 		</ul>
 		<hr>
-		<p><small>Este pacote contém as traduções para Português (Brasil) do Joomla! 6.0.0.1.1, incluindo todos os componentes core, módulos, plugins e temas.</small></p>
+		<p><small>Este pacote contém as traduções para Português (Brasil) do Joomla! 6.0.0.1.2, incluindo todos os componentes core, módulos, plugins e temas.</small></p>
 	]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
@@ -36,6 +36,6 @@
 		<folder type="language" client="api" id="pt-BR">api_pt-BR</folder>
 	</files>
 	<updateservers>
-		<server type="collection" priority="1" name="Joomla! Official Language Package Updates">https://update.joomla.org/language/translationlist_6.xml</server>
+		<server type="extension" priority="1" name="Portuguese (Brazil) Language Pack Updates">https://raw.githubusercontent.com/uzielweb/joomla6-pt-br/master/updates/pt-br-language-pack.xml</server>
 	</updateservers>
 </extension>
