@@ -1,8 +1,8 @@
-# Pacote de Idioma Português (Brasil) para Joomla! 6.0.0.1
+# Pacote de Idioma Português (Brasil) para Joomla! 6.0.0.1.1
 
 ## Informações do Pacote
 
-- **Versão:** 6.0.0.1
+- **Versão:** 6.0.0.1.1
 - **Data de Criação:** 16 de Outubro de 2025
 - **Traduzido por:** Use Joomla! - Comunidade Brasileira de Joomla!
 - **Website:** https://www.usejoomla.com.br
@@ -30,7 +30,7 @@ Este pacote contém traduções completas para:
 
 ## Instalação
 
-1. Faça o download do arquivo `pkg_pt-BR_6.0.0.1.zip`
+1. Faça o download do arquivo `pkg_pt-BR_6.0.0.1.1.zip`
 2. Acesse o painel administrativo do Joomla
 3. Vá em **Sistema → Instalar → Extensões**
 4. Clique em **Procurar** e selecione o arquivo ZIP
@@ -82,7 +82,7 @@ Incluem regras específicas para PT-BR:
 
 ## Atualizações
 
-Este pacote foi criado para Joomla! 6.0.0.1 e será atualizado conforme novas versões forem lançadas.
+Este pacote foi criado para Joomla! 6.0.0.1.1 e será atualizado conforme novas versões forem lançadas.
 
 ## Licença
 

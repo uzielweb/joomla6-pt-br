@@ -1,10 +1,10 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
-## Versão 6.0.0.1 (16/01/2025)
+## Versão 6.0.0.1.1 (18/10/2025)
 
 ### Novidades
 
-- **Primeira versão oficial** para Joomla! 6.0.0.1
+- **Primeira versão oficial** para Joomla! 6.0.0.1.1
 - Tradução completa de todos os componentes core
 - Suporte completo à Autenticação Multifator (AMF)
 - Tradução dos temas Cassiopeia e Atum
@@ -15,10 +15,11 @@
 #### Terminologia
 - **Padronização de termos técnicos:**
  - "Templates" → "Temas" (interface)
- - "Banners" → "Faixas Publicitárias"
+ - "Banners" → Mantido como "Banners" (termo técnico universal)
  - "Check-out" → "Bloqueados"
  - "Frontend" → "Site"
  - "Backend" → "Área Administrativa"
+ - "Tags" → Mantido em inglês (termo técnico universal)
  - "Tags" → Mantido em inglês (termo técnico universal)
 
 #### Concordância
@@ -48,6 +49,32 @@
 
 ### Correções
 
+#### Traduções de Banners
+- **Correção de inconsistências terminológicas:**
+  - Padronizado uso de "banner" vs "faixa publicitária"
+  - Definido "banner" como termo padrão por ser mais reconhecido no contexto web
+  
+- **Correção de concordâncias:**
+  - `"Cliente liberou para edição"` → `"Cliente liberado para edição"`
+  - `"clientes liberaram para edição"` → `"clientes liberados para edição"`
+  
+- **Correção de traduções incorretas:**
+  - `"Digite ascendente/decrescente"` → `"Tipo ascendente/decrescente"`
+  
+- **Padronização de maiúsculas e minúsculas:**
+  - "Banner" (maiúscula) em títulos, labels e ações
+  - "banner" (minúscula) em textos descritivos e no meio de frases
+  
+- **Arquivos corrigidos:**
+  - `admin_pt-BR/com_banners.ini`
+  - `admin_pt-BR/com_banners.sys.ini`
+  - `admin_pt-BR/plg_webservices_banners.ini`
+  - `admin_pt-BR/guidedtours.joomla_banners.ini`
+  - `admin_pt-BR/guidedtours.joomla_banners_steps.ini`
+  - `site_pt-BR/mod_banners.ini`
+  - `site_pt-BR/mod_banners.sys.ini`
+
+#### Correções Gerais
 - Correção de inconsistências terminológicas
 - Normalização de XMLs de metadados
 - Remoção de imagens base64 de flags
@@ -117,7 +144,7 @@
 ### Estrutura do Pacote
 
 ```
-pkg_pt-BR_6.0.0.1.zip
+pkg_pt-BR_6.0.0.1.1.zip
 ├── pkg_pt-BR.xml (XML principal do pacote)
 ├── README.md (Documentação)
 ├── site_pt-BR/ (Frontend)
