@@ -1,9 +1,9 @@
-# INSTALAÇÃO RÁPIDA - Pacote PT-BR para Joomla! 6.0.0.1.3
+# INSTALAÇÃO RÁPIDA - Pacote PT-BR para Joomla! 6.0.0.1.4
 
 ## Instalação em 5 Passos
 
 ### Download
-Baixe o arquivo `pkg_pt-BR_6.0.0.1.3.zip` (518 KB)
+Baixe o arquivo `pkg_pt-BR_6.0.0.1.4.zip` (518 KB)
 
 ### Acesse o Painel Admin
 Faça login na área administrativa do seu Joomla!

@@ -1,5 +1,26 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.4 (18/10/2025)
+
+### 🔧 Correções de Terminologia Técnica - Sistema de Atualização
+- **CORRIGIDO**: "Atualizar sites" → "Sites de atualização" (8 ocorrências)
+- **CORRIGIDO**: "Atualizar site" → "Site de atualização" (3 ocorrências)
+- **CORRIGIDO**: "Atualizar Gerenciador dos Sites" → "Gerenciador de Sites de Atualização"
+- **CORRIGIDO**: "servidor de atualização" → "sites de atualização" em contextos apropriados
+- **CORRIGIDO**: Concordância: "Site de atualização liberados" → "Site de atualização liberado"
+- **MELHORADO**: Consistência terminológica em módulos e componentes relacionados a atualizações
+
+### 📁 Arquivos Atualizados
+- **admin_pt-BR**: Correções em com_joomlaupdate.ini e outros componentes
+- **site_pt-BR**: Ajustes em módulos relacionados a atualizações
+- **Terminologia**: Padronização completa do vocabulário técnico de atualizações
+
+### ✅ Compatibilidade
+- **Joomla**: 6.0.0.1.4
+- **Cobertura**: Terminologia técnica de atualizações padronizada
+
+---
+
 ## Versão 6.0.0.1.3 (18/10/2025)
 
 ### 🔧 Correções de Tradução - Sistema de Permissões
