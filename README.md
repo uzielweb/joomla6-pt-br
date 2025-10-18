@@ -1,8 +1,8 @@
-# Pacote de Idioma Português (Brasil) para Joomla! 6.0.0.1.6
+# Pacote de Idioma Português (Brasil) para Joomla! 6.0.0.1.10
 
 ## Informações do Pacote
 
-- **Versão:** 6.0.0.1.6
+- **Versão:** 6.0.0.1.10
 - **Data de Criação:** 18 de Outubro de 2025
 - **Traduzido por:** Use Joomla! - Comunidade Brasileira de Joomla!
 - **Website:** https://www.usejoomla.com.br

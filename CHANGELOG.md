@@ -1,5 +1,23 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.10 (18/10/2025)
+
+### 🔧 Correções Adicionais de Expressões Joomla!
+- **CORRIGIDO**: "Atualizar token" → "Token de atualização"
+- **CORRIGIDO**: "atualizar o Joomla!" → "atualizar o Joomla" (removido ! desnecessário)
+- **MELHORADO**: Consistência terminológica em expressões Joomla!
+- **PADRONIZADO**: Uso do ponto de exclamação em referências ao Joomla
+
+### 📁 Arquivos Atualizados
+- **admin_pt-BR**: com_joomlaupdate.ini (correções terminológicas adicionais)
+- **Terminologia**: Padronização de uso do ponto de exclamação
+
+### ✅ Compatibilidade
+- **Joomla**: 6.0.0.1.10
+- **Cobertura**: Correções terminológicas adicionais
+
+---
+
 ## Versão 6.0.0.1.9 (18/10/2025)
 
 ### 🔧 Correção de Terminologia para Canais de Atualização
