@@ -1,5 +1,26 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.5 (18/10/2025)
+
+### 🔧 Correções de Traduções Literais e Melhorias de Linguagem
+- **CORRIGIDO**: JACTION_MANAGE de "Acesse a interface de administração" → "Gerenciar" (3 arquivos)
+- **CORRIGIDO**: "Acesse a administração area" → "Acesse a área de administração"
+- **CORRIGIDO**: Removidas redundâncias como "área administrativa do administrador" → "área administrativa"
+- **MELHORADO**: Naturalidade das traduções em contextos administrativos
+- **PADRONIZADO**: Terminologia para português brasileiro mais fluido
+
+### 📁 Arquivos Atualizados
+- **admin_pt-BR**: Correções em joomla.ini, com_login.ini, com_modules.ini, com_messages.ini, plg_sampledata_blog.ini
+- **site_pt-BR**: Correções em joomla.ini
+- **api_pt-BR**: Correções em joomla.ini
+- **Terminologia**: Traduções mais naturais e menos literais
+
+### ✅ Compatibilidade
+- **Joomla**: 6.0.0.1.5
+- **Cobertura**: Traduções mais naturais e fluídas
+
+---
+
 ## Versão 6.0.0.1.4 (18/10/2025)
 
 ### 🔧 Correções de Terminologia Técnica - Sistema de Atualização
