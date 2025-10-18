@@ -1,5 +1,26 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.3 (18/10/2025)
+
+### 🔧 Correções de Tradução - Sistema de Permissões
+- **CORRIGIDO**: Tradução completa de todas as strings de permissão em inglês
+- **CORRIGIDO**: 17+ arquivos com strings "Denied" → "Negado" 
+- **CORRIGIDO**: Strings "Inherited" → "Herdado" em todo o sistema
+- **CORRIGIDO**: Strings "Allowed" → "Permitido" em componentes e bibliotecas
+- **CORRIGIDO**: Traduções de regras de permissão (JLIB_RULES_SETTING_NOTES) em 12 componentes
+- **CORRIGIDO**: Strings específicas como "Not Set" → "Não Definido" e "Deny" → "Negar"
+
+### 📁 Arquivos Atualizados
+- **admin_pt-BR**: 16 arquivos de componentes corrigidos (com_cache, com_contact, com_content, etc.)
+- **site_pt-BR**: lib_joomla.ini com correções nas regras de permissão
+- **Componentes**: Todas as strings de sistema de permissões traduzidas
+
+### ✅ Compatibilidade
+- **Joomla**: 6.0.0.1.3
+- **Cobertura**: 100% das strings de permissão traduzidas
+
+---
+
 ## Versão 6.0.0.1.2 (18/10/2025)
 
 ### 🚀 Melhorias Gerais
