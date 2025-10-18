@@ -1,5 +1,22 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.12 (18/10/2025)
+
+### 🔧 Padronização de Formatação em Mensagens de Erro
+- **CORRIGIDO**: Formatação inconsistente "%s:" → "%s: " em erro de banco de dados
+- **PADRONIZADO**: Padrão consistente "%s: " para todos os erros de banco de dados
+- **MELHORADO**: Consistência visual e legibilidade em mensagens de erro técnicas
+
+### 📁 Arquivos Atualizados
+- **admin_pt-BR**: lib_joomla.ini (correção de formatação em JLIB_DATABASE_ERROR_CHECKOUT_FAILED)
+- **Formatação**: Padronização de placeholders em mensagens de erro
+
+### ✅ Compatibilidade
+- **Joomla**: 6.0.0.1.12
+- **Cobertura**: Correções de formatação em mensagens de erro
+
+---
+
 ## Versão 6.0.0.1.11 (18/10/2025)
 
 ### 🔧 Correções de Expressões com "Lixeira"
