@@ -1,5 +1,24 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.11 (18/10/2025)
+
+### 🔧 Correções de Expressões com "Lixeira"
+- **CORRIGIDO**: "categoria lixeira" → "categoria na lixeira" (2 arquivos)
+- **CORRIGIDO**: "estado diferente de lixeira" → "estado diferente da lixeira"
+- **MELHORADO**: Naturalidade das expressões relacionadas à lixeira
+- **PADRONIZADO**: Terminologia consistente para português brasileiro
+
+### 📁 Arquivos Atualizados
+- **admin_pt-BR**: lib_joomla.ini, com_menus.ini
+- **site_pt-BR**: lib_joomla.ini
+- **Terminologia**: Correções semânticas para expressões com "lixeira"
+
+### ✅ Compatibilidade
+- **Joomla**: 6.0.0.1.11
+- **Cobertura**: Correções semânticas para expressões com "lixeira"
+
+---
+
 ## Versão 6.0.0.1.10 (18/10/2025)
 
 ### 🔧 Correções Adicionais de Expressões Joomla!

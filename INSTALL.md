@@ -1,4 +1,4 @@
-# INSTALAÇÃO RÁPIDA - Pacote PT-BR para Joomla! 6.0.0.1.10
+# INSTALAÇÃO RÁPIDA - Pacote PT-BR para Joomla! 6.0.0.1.11
 
 ## Instalação em 5 Passos
 
