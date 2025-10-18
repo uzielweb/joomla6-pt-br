@@ -1,5 +1,25 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.8 (18/10/2025)
+
+### 🔧 Correções Adicionais de Expressões Joomla!
+- **CORRIGIDO**: "Joomla! Servidor de idiomas" → "servidor de idiomas do Joomla!"
+- **CORRIGIDO**: "Joomla! Site de documentação" → "site de documentação do Joomla!"
+- **CORRIGIDO**: "Joomla! instalação" → "instalação do Joomla!"
+- **CORRIGIDO**: "Joomla! por exemplo" → "Joomla" (removido erro de tradução)
+- **MELHORADO**: Semântica e naturalidade de expressões Joomla! adicionais
+- **PADRONIZADO**: Terminologia mais fluida para português brasileiro
+
+### 📁 Arquivos Atualizados
+- **admin_pt-BR**: com_installer.ini (correções semânticas adicionais)
+- **Terminologia**: Correções semânticas adicionais em expressões Joomla!
+
+### ✅ Compatibilidade
+- **Joomla**: 6.0.0.1.8
+- **Cobertura**: Correções semânticas adicionais em expressões Joomla!
+
+---
+
 ## Versão 6.0.0.1.7 (18/10/2025)
 
 ### 🔧 Correções Semânticas em Expressões Joomla!
