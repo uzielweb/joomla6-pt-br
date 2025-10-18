@@ -27,7 +27,7 @@
 			<li>Metadados de idioma atualizados</li>
 		</ul>
 		<hr>
-		<p><small>Este pacote contém as traduções para Português (Brasil) do Joomla! 6.0.0.1.4, incluindo todos os componentes core, módulos, plugins e temas.</small></p>
+		<p><small>Este pacote contém as traduções para Português (Brasil) do Joomla! 6.0.0.1.12, incluindo todos os componentes core, módulos, plugins e temas.</small></p>
 	]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
