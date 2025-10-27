@@ -2,7 +2,7 @@
 <extension type="package" method="upgrade">
 	<name>Portuguese (Brazil) Language Pack</name>
 	<packagename>pt-BR</packagename>
-	<version>6.0.0.1.14</version>
+	<version>6.0.0.1.15</version>
 	<creationDate>2025-10-27</creationDate>
 	<author>Use Joomla!</author>
 	<authorEmail>traducao@usejoomla.com.br</authorEmail>
@@ -13,7 +13,7 @@
 	<packager></packager>
 	<packagerurl></packagerurl>
 	<description><![CDATA[
-		<h2>Pacote de Idioma Português (Brasil) para Joomla! 6.0.0.1.14</h2>
+		<h2>Pacote de Idioma Português (Brasil) para Joomla! 6.0.0.1.15</h2>
 		<p><strong>Traduzido por:</strong> Use Joomla! - Comunidade Brasileira de Joomla!</p>
 		<p><strong>Website:</strong> <a href="https://www.usejoomla.com.br" target="_blank">www.usejoomla.com.br</a></p>
 		<p><strong>Email:</strong> traducao@usejoomla.com.br</p>
@@ -27,7 +27,7 @@
 			<li>Metadados de idioma atualizados</li>
 		</ul>
 		<hr>
-		<p><small>Este pacote contém as traduções para Português (Brasil) do Joomla! 6.0.0.1.14, incluindo todos os componentes core, módulos, plugins e temas.</small></p>
+		<p><small>Este pacote contém as traduções para Português (Brasil) do Joomla! 6.0.0.1.15, incluindo todos os componentes core, módulos, plugins e temas.</small></p>
 	]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
