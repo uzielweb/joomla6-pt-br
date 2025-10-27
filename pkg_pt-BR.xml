@@ -2,8 +2,8 @@
 <extension type="package" method="upgrade">
 	<name>Portuguese (Brazil) Language Pack</name>
 	<packagename>pt-BR</packagename>
-	<version>6.0.0.1.13</version>
-	<creationDate>2025-10-18</creationDate>
+	<version>6.0.0.1.14</version>
+	<creationDate>2025-10-27</creationDate>
 	<author>Use Joomla!</author>
 	<authorEmail>traducao@usejoomla.com.br</authorEmail>
 	<authorUrl>https://www.usejoomla.com.br</authorUrl>
