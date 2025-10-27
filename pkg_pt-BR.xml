@@ -36,6 +36,6 @@
 		<folder type="language" client="api" id="pt-BR">api_pt-BR</folder>
 	</files>
 	<updateservers>
-		<server type="collection" priority="1" name="Joomla! Official Language Package Updates">https://update.joomla.org/translationlist_6.xml</server>
+		<server type="collection" priority="1" name="Joomla! Official Language Package Updates">https://updates.usejoomla.com.br/translationlist_6.xml</server>
 	</updateservers>
 </extension>
