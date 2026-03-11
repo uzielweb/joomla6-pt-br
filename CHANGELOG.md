@@ -1,5 +1,20 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## [6.0.0.1.20] - 2026-03-11
+
+### Adicionado
+- Tradução completa dos plugins de botões do editor (Editors-XTD): Artigo, Contato, Campos, Mídia, Menu, Módulo, Quebra de Página, Leia Mais.
+
+### Alterado
+- Naturalização de termos de publicação ("Publicar em" / "Encerrar em").
+- Naturalização de termos de destaque ("Destacar em" / "Remover destaque em").
+- Alteração de "Pseudônimo" para "Apelido do autor" em todos os campos de criação por alias.
+- Alteração de "Acessos" para "Visualizações".
+- Melhoria na tradução de termos de link ("Vincular um texto" para "Texto do link").
+- Refinamento técnico nos plugins CodeMirror, TinyMCE e Debug (ex: "Fechar parênteses automaticamente", "Shift", "Ctrl").
+- Atualização da versão do pacote para 6.0.0.1.20.
+
+
 ## Versão 6.0.0.1.19 (11/03/2026)
 
 ### Correções de Traduções "Esdrúxulas" (Literais)
