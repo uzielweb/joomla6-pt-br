@@ -1,5 +1,30 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.16 (11/03/2026)
+
+### 🔄 Atualização de Versão
+- **ATUALIZADO**: Versão do pacote para compatibilidade com melhorias recentes
+- **SINCRONIZADO**: Todos os arquivos de metadados e configuração atualizados para 6.0.0.1.16
+
+### 🔧 Melhorias de Terminologia e Gramática
+- **MELHORADO**: "Hits" → "Acessos" em múltiplos locais (site e admin)
+- **CORRIGIDO**: "Biscoito" → "Cookie" nas configurações globais
+- **PADRONIZADO**: "Aulas" → "Classes" em plugins (TinyMCE) e componentes (Content)
+- **MELHORADO**: Mensagens de resultados de busca mais naturais com "que o texto %2$s"
+- **CORRIGIDO**: Diversas correções de concordância de gênero e número
+
+### 📁 Arquivos Atualizados
+- **pkg_pt-BR.xml**: Versão principal do pacote
+- **Metadados**: langmetadata.xml e install.xml de todos os clientes (site, admin, api)
+- **Updates**: Arquivo de atualizações atualizado
+- **Documentação**: CHANGELOG.md e inclusão de regras em .agent/rules.md
+
+### ✅ Compatibilidade
+- **Joomla**: 6.0.0.1.16
+- **Cobertura**: Melhorias de naturalidade e correção técnica de termos
+
+---
+
 ## Versão 6.0.0.1.13 (27/10/2025)
 
 ### 🔄 Atualização de Versão

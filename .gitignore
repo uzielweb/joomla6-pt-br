@@ -1,4 +1,8 @@
 # IDE
+.agent/
+.antigravity/
+.gemini/
+.docs/
 .vscode/
 .idea/
 *.swp
