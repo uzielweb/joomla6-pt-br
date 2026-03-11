@@ -2,12 +2,12 @@
 <metafile client="api">
 	<name>Portuguese (Brazil)</name>
 	<tag>pt-BR</tag>
-	<version>6.0.0.1.16</version>
+	<version>6.0.0.1.17</version>
 	<creationDate>2026-03-11</creationDate>
 	<author>Use Joomla!</author>
 	<authorEmail>traducao@usejoomla.com.br</authorEmail>
 	<authorUrl>https://usejoomla.com.br</authorUrl>
-	<copyright>(C) 2008 - 2025 Use Joomla!. Todos os direitos reservados.</copyright>
+	<copyright>(C) 2008 - 2026 Use Joomla!. Todos os direitos reservados.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description><![CDATA[Tradução da API em Português do Brasil para Joomla! 6.0 | Portuguese (Brazil) API translation for Joomla! 6.0]]></description>
 	<metadata>
