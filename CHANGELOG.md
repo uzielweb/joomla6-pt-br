@@ -1,5 +1,14 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.18 (12/03/2026)
+
+### Correções de Idioma e Tradução
+- CORRIGIDO: Traduções esdrúxulas e literais em diversos componentes (ex: Categoria infantil -> Subcategorias)
+- PADRONIZADO: Uso de "Link" em vez de "Ligação" e "Feed" em vez de "Alimentação"
+- CORRIGIDO: Termos técnicos como "Recolher" em vez de "Colapso" e "Último" em vez de "Durar"
+- AJUSTADO: Concordância gramatical em strings de API e notificações do sistema
+- ATUALIZADO: Todas as tags de "Etiqueta" para "Tag" ou "Rótulo" conforme o contexto
+
 ## Versão 6.0.0.1.17 (11/03/2026)
 
 ### Atualização de Versão
