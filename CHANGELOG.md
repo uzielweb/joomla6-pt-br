@@ -1,5 +1,18 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## Versão 6.0.0.1.19 (11/03/2026)
+
+### Correções de Traduções "Esdrúxulas" (Literais)
+- CORRIGIDO: "Mesa" -> "Tabela" em diversos locais (SQL e interface)
+- CORRIGIDO: "Claro" -> "Limpar" para botões de formulário
+- CORRIGIDO: "Falha na loja" -> "Falha ao salvar" em mensagens de erro de banco de dados
+- CORRIGIDO: "Falha no acerto" -> "Falha ao registrar acesso"
+- CORRIGIDO: "Matriz" -> "Array" em mensagens de erro técnicas
+
+### Naturalização de Termos (pt-PT para pt-BR)
+- CORRIGIDO: "Ligação" -> "Link" ou "Conexão" (conforme o contexto) em plugins e sistema
+- CORRIGIDO: Resquícios de termos técnicos não naturais removidos
+
 ## Versão 6.0.0.1.18 (12/03/2026)
 
 ### Correções de Idioma e Tradução
