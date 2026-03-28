@@ -1,5 +1,11 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## [6.0.3.2] - 2026-03-27
+
+### Atualizado
+- Sincronização de todos os arquivos de metadados e configuração para a versão 6.0.3.2.
+- Atualização da versão do pacote no manifesto principal e nos servidores de atualização.
+
 ## [6.0.0.1.20] - 2026-03-11
 
 ### Adicionado
