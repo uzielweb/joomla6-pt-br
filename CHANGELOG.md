@@ -1,5 +1,11 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## [6.0.3.3] - 2026-04-01
+
+### Alterado
+- Melhoria na tradução do módulo de Pesquisa Inteligente: "Pesquise & hellip;" -> "Pesquisar...".
+- Atualização da versão do pacote e metadados.
+
 ## [6.0.3.2] - 2026-03-27
 
 ### Atualizado
