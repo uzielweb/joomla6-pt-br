@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
+﻿<?xml version="1.0" encoding="UTF-8"?>
 <extension type="package" method="upgrade">
 	<name>Portuguese (Brazil) Language Pack</name>
 	<packagename>pt-BR</packagename>
@@ -7,27 +7,27 @@
 	<author>Use Joomla!</author>
 	<authorEmail>traducao@usejoomla.com.br</authorEmail>
 	<authorUrl>https://www.usejoomla.com.br</authorUrl>
-	<copyright>(C) 2005 Open Source Matters, Inc. Tradução: Use Joomla!</copyright>
+	<copyright>(C) 2005 Open Source Matters, Inc. TraduÃ§Ã£o: Use Joomla!</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<url></url>
 	<packager></packager>
 	<packagerurl></packagerurl>
 	<description><![CDATA[
-		<h2>Pacote de Idioma Português (Brasil) para Joomla! 6.0.3.3</h2>
+		<h2>Pacote de Idioma PortuguÃªs (Brasil) para Joomla! 6.0.3.3</h2>
 		<p><strong>Traduzido por:</strong> Use Joomla! - Comunidade Brasileira de Joomla!</p>
 		<p><strong>Website:</strong> <a href="https://www.usejoomla.com.br" target="_blank">www.usejoomla.com.br</a></p>
 		<p><strong>Email:</strong> traducao@usejoomla.com.br</p>
 		<hr>
-		<h3>Conteúdo do Pacote:</h3>
+		<h3>ConteÃºdo do Pacote:</h3>
 		<ul>
-			<li>Tradução completa do Site (Frontend)</li>
-			<li>Tradução completa do Administrador (Backend)</li>
-			<li>Tradução completa da API</li>
-			<li>Arquivos localise.php para regras específicas do PT-BR</li>
+			<li>TraduÃ§Ã£o completa do Site (Frontend)</li>
+			<li>TraduÃ§Ã£o completa do Administrador (Backend)</li>
+			<li>TraduÃ§Ã£o completa da API</li>
+			<li>Arquivos localise.php para regras especÃ­ficas do PT-BR</li>
 			<li>Metadados de idioma atualizados</li>
 		</ul>
 		<hr>
-		<p><small>Este pacote contém as traduções para Português (Brasil) do Joomla! 6.0.3.3, incluindo todos os componentes core, módulos, plugins e temas.</small></p>
+		<p><small>Este pacote contÃ©m as traduÃ§Ãµes para PortuguÃªs (Brasil) do Joomla! 6.0.3.3, incluindo todos os componentes core, mÃ³dulos, plugins e temas.</small></p>
 	]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
