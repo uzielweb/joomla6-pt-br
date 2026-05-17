@@ -1,4 +1,4 @@
-# Pacote de Idioma Português (Brasil) para Joomla! 6.1.0.1
+# 🇧🇷 Tradução do Joomla 6 - Pacote de Idioma Português Brasil (pt-BR)
 
 ## Informações do Pacote
 
