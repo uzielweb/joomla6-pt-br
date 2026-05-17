@@ -54,7 +54,6 @@ Após a instalação:
 ### Terminologia Consistente
 
 - **Tags** → Mantido em inglês (termo técnico universal)
-- **Banners** → "Faixas Publicitárias" (tradução profissional)
 - **Templates** → "Temas" (user-friendly)
 - **Check-out** → "Bloqueados" (português correto)
 - **Frontend** → "Site" (descritivo)
