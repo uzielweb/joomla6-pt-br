@@ -1,5 +1,25 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## [6.2.0.1] - 2026-11-20
+
+### Adicionado
+- Novos arquivos do Joomla 6.2: `guidedtours.joomla_whatsnew_6_2.ini` e `guidedtours.joomla_whatsnew_6_2_steps.ini`.
+- 118 chaves de tradução ausentes em 26 arquivos (com_installer, com_content, com_contact, joomla.ini, TinyMCE, mod_login, mod_articles, tpl_cassiopeia, entre outros).
+- Tradução completa do plugin POW Captcha (Admin e Site).
+
+### Corrigido
+- Rótulos `X de pesquisa` para `Pesquisar X` (36 ocorrências).
+- `Digite ascendente/decrescente` para `Tipo (crescente/decrescente)` (20 ocorrências).
+- `Casa ascendente/descendo` para `Página inicial (crescente/decrescente)`.
+- Números `%d` invertidos em mensagens de plural (34 ocorrências).
+- Ordenações `_ASC` e `_DESC` trocadas (11 ocorrências).
+- `Desdefinir` para `Remover definição` e `Troca de pilha` para `Rastreamento de pilha`.
+- Traduções de com_cache, com_installer, com_templates e mod_menu revisadas.
+- Mensagens pós-instalação de com_cpanel traduzidas e diretivas Apache restauradas.
+
+### Alterado
+- Versão do pacote e metadados atualizados para 6.2.0.1 (Joomla! 6.2.0).
+
 ## [6.0.3.3] - 2026-04-01
 
 ### Alterado
