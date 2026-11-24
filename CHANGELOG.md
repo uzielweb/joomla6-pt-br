@@ -1,5 +1,14 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## [6.2.0.2] - 2026-11-24
+
+### Corrigido
+- **Sintaxe e Integridade INI:** Corrigidas aspas duplas sem escape (`\"`) em 7 arquivos, removida chave duplicada `JUNFEATURE`, removidos 25 caracteres invisíveis `U+200B`, corrigidas entidades `& hellip;` quebradas e restaurados separadores numéricos brasileiros (`DECIMALS_SEPARATOR=","` e `THOUSANDS_SEPARATOR="."`).
+- **Quebras Funcionais:** Restaurados formatos PHP `date()` (`F d, Y`, `H:i`), prefixos de busca exigidos em inglês (`AUTHOR:`, `CONTENT:`, `Name:`, `DESCRIPTION:`), classes CSS (`boxed`, `image-left`, `text-start`, `system-pagebreak`), diretivas `.htaccess` em `<pre>`, diretivas CSP (`'self'`, `'unsafe-inline'`), métodos HTTP (`DELETE`, `GET`, `PATCH`, `POST`, `PUT`), cabeçalho `Content-Type`, `Sendmail`, separador `|` e `#` no frontend e `JSAVE="Salvar"`.
+- **Contaminação e Truncamentos:** Removidas 17 chaves externas de projeto terceiro em `site_pt-BR/com_contact.ini` e chaves inventadas em `guidedtours.joomla_whatsnew_6_1*.ini`; restaurado conteúdo integral de `guidedtours.joomla_whatsnew_6_1.ini`, `com_languages.ini` e `com_installer.ini`.
+- **Traduções Ausentes:** Traduzidos integralmente `plg_system_httpheaders`, `plg_media-action_crop/resize/rotate`, `plg_quickicon_phpversioncheck`, `mod_footer`, `mod_whosonline`, `mod_menu`, `com_modules` (`Posição 0..15`) e strings PHPMailer.
+- **Padronização Terminológica (13.471 strings):** Eliminados falsos cognatos e traduções literais (`Disposição` -> `Layout`, `Certo` -> `Direita`, `Personagens` -> `Caracteres`, `Palco` -> `Etapa`, `Oráculo` -> `Oracle`, `Procurador` -> `Proxy`, `Host/meia` -> `Host/Socket`, `Colheita` -> `Rendimento`, `Átomo 1.0` -> `Atom 1.0`, `Pretexto` -> `Pré-texto`, `Gerente de mídia` -> `Gerenciador de mídia`, `Extensões legais` -> `Extensões permitidas`, `Texto escuro/claro` em `tpl_atum.ini`), além da unificação de `api_pt-BR/joomla.ini` com o Admin.
+
 ## [6.2.0.1] - 2026-11-20
 
 ### Adicionado
