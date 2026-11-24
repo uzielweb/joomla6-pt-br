@@ -2,7 +2,7 @@
 <extension type="package" method="upgrade">
 	<name>Portuguese (Brazil) Language Pack - Ponto Mega</name>
 	<packagename>pt-BR</packagename>
-	<version>6.2.0.2</version>
+	<version>6.2.1.1</version>
 	<creationDate>2026-11-24</creationDate>
 	<author>Uziel Almeida Oliveira (Ponto Mega)</author>
 	<authorEmail>traducao@usejoomla.com.br</authorEmail>
@@ -13,7 +13,7 @@
 	<packager>Uziel Almeida Oliveira - Ponto Mega</packager>
 	<packagerurl>https://github.com/uzielweb/joomla6-pt-br</packagerurl>
 	<description><![CDATA[
-		<h2>Pacote de Idioma Português (Brasil) para Joomla! 6.2.0.2</h2>
+		<h2>Pacote de Idioma Português (Brasil) para Joomla! 6.2.1.1</h2>
 		<p><strong>Autor e Mantenedor:</strong> Uziel Almeida Oliveira — <strong>Ponto Mega</strong></p>
 		<p><strong>Repositório Oficial:</strong> <a href="https://github.com/uzielweb/joomla6-pt-br" target="_blank" rel="noopener noreferrer">github.com/uzielweb/joomla6-pt-br</a></p>
 		<hr>
@@ -26,7 +26,7 @@
 			<li>Metadados de idioma e servidor de atualização direto via GitHub</li>
 		</ul>
 		<hr>
-		<p><small>Tradução e revisão terminológica por Uziel Almeida Oliveira (Ponto Mega) para Joomla! 6.2.0.</small></p>
+		<p><small>Tradução e revisão terminológica por Uziel Almeida Oliveira (Ponto Mega) para Joomla! 6.2.1.</small></p>
 	]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>

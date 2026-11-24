@@ -1,5 +1,13 @@
 # CHANGELOG - Pacote de Idioma Português (Brasil) para Joomla! 6
 
+## [6.2.1.1] - 2026-11-24
+
+### Adicionado
+- **Compatibilidade Joomla! 6.2.1:** Traduzidas todas as 16 novas chaves introduzidas no Joomla! 6.2.1 (`JACTION_API`, `JGLOBAL_RESOURCE_NOT_FOUND`, `COM_SCHEDULER_SELECT_ORPHANED`, `COM_USERS_A11Y_SETTINGS_*SHORTCUT_TIMEOUT*`, `PLG_MULTIFACTORAUTH_TOTP_LBL_SETUP_QR_ALT`, `COM_CONTENT_ARTICLE_VOTE_NOT_ALLOWED`, `MOD_FINDER_ARIA_LABEL` e `CASSIOPEIA_EXTENDED`).
+
+### Alterado
+- Versão do pacote e metadados atualizados para `6.2.1.1` (Joomla! 6.2.1).
+
 ## [6.2.0.2] - 2026-11-24
 
 ### Corrigido
