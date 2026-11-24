@@ -4,10 +4,10 @@
 	<tag>pt-BR</tag>
 	<version>6.2.0.2</version>
 	<creationDate>2026-11-24</creationDate>
-	<author>Use Joomla!</author>
+	<author>Uziel Almeida Oliveira (Ponto Mega)</author>
 	<authorEmail>traducao@usejoomla.com.br</authorEmail>
-	<authorUrl>https://usejoomla.com.br</authorUrl>
-	<copyright>(C) 2008 - 2026 Use Joomla!. Todos os direitos reservados.</copyright>
+	<authorUrl>https://github.com/uzielweb/joomla6-pt-br</authorUrl>
+	<copyright>(C) 2008 - 2026 Uziel Almeida Oliveira - Ponto Mega. Todos os direitos reservados.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
 	<description><![CDATA[Tradução do Frontend (Site) em Português do Brasil para Joomla! 6.2 | Portuguese (Brazil) Frontend (Website) translation for Joomla! 6.2]]></description>
 	<metadata>

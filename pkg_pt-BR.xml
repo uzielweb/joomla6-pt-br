@@ -1,33 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <extension type="package" method="upgrade">
-	<name>Portuguese (Brazil) Language Pack</name>
+	<name>Portuguese (Brazil) Language Pack - Ponto Mega</name>
 	<packagename>pt-BR</packagename>
 	<version>6.2.0.2</version>
 	<creationDate>2026-11-24</creationDate>
-	<author>Use Joomla!</author>
+	<author>Uziel Almeida Oliveira (Ponto Mega)</author>
 	<authorEmail>traducao@usejoomla.com.br</authorEmail>
-	<authorUrl>https://www.usejoomla.com.br</authorUrl>
-	<copyright>(C) 2005 Open Source Matters, Inc. Tradução: Use Joomla!</copyright>
+	<authorUrl>https://github.com/uzielweb/joomla6-pt-br</authorUrl>
+	<copyright>(C) 2026 Uziel Almeida Oliveira - Ponto Mega. Baseado no Projeto Joomla!.</copyright>
 	<license>GNU General Public License version 2 or later; see LICENSE.txt</license>
-	<url></url>
-	<packager></packager>
-	<packagerurl></packagerurl>
+	<url>https://github.com/uzielweb/joomla6-pt-br</url>
+	<packager>Uziel Almeida Oliveira - Ponto Mega</packager>
+	<packagerurl>https://github.com/uzielweb/joomla6-pt-br</packagerurl>
 	<description><![CDATA[
 		<h2>Pacote de Idioma Português (Brasil) para Joomla! 6.2.0.2</h2>
-		<p><strong>Traduzido por:</strong> Use Joomla! - Comunidade Brasileira de Joomla!</p>
-		<p><strong>Website:</strong> <a href="https://www.usejoomla.com.br" target="_blank">www.usejoomla.com.br</a></p>
-		<p><strong>Email:</strong> traducao@usejoomla.com.br</p>
+		<p><strong>Autor e Mantenedor:</strong> Uziel Almeida Oliveira — <strong>Ponto Mega</strong></p>
+		<p><strong>Repositório Oficial:</strong> <a href="https://github.com/uzielweb/joomla6-pt-br" target="_blank" rel="noopener noreferrer">github.com/uzielweb/joomla6-pt-br</a></p>
 		<hr>
 		<h3>Conteúdo do Pacote:</h3>
 		<ul>
-			<li>Tradução completa do Site (Frontend)</li>
-			<li>Tradução completa do Administrador (Backend)</li>
-			<li>Tradução completa da API</li>
+			<li>Tradução completa e revisada do Site (Frontend)</li>
+			<li>Tradução completa e revisada do Administrador (Backend)</li>
+			<li>Tradução completa e unificada da API</li>
 			<li>Arquivos localise.php para regras específicas do PT-BR</li>
-			<li>Metadados de idioma atualizados</li>
+			<li>Metadados de idioma e servidor de atualização direto via GitHub</li>
 		</ul>
 		<hr>
-		<p><small>Este pacote contém as traduções para Português (Brasil) do Joomla! 6.2.0.2, incluindo todos os componentes core, módulos, plugins e temas.</small></p>
+		<p><small>Tradução e revisão terminológica por Uziel Almeida Oliveira (Ponto Mega) para Joomla! 6.2.0.</small></p>
 	]]></description>
 	<blockChildUninstall>true</blockChildUninstall>
 	<files>
@@ -36,6 +35,6 @@
 		<folder type="language" client="api" id="pt-BR">api_pt-BR</folder>
 	</files>
 	<updateservers>
-		<server type="collection" priority="1" name="Joomla! Official Language Package Updates">https://updates.usejoomla.com.br/translationlist_6.xml</server>
+		<server type="extension" priority="1" name="Joomla! Português Brasil - Uziel Almeida Oliveira (Ponto Mega)">https://raw.githubusercontent.com/uzielweb/joomla6-pt-br/master/updates/pt-br-language-pack.xml</server>
 	</updateservers>
 </extension>
